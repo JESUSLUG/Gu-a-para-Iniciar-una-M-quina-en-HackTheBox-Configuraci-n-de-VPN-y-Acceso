@@ -36,9 +36,9 @@ Para iniciar una máquina en HackTheBox (HTB), necesitas seguir algunos pasos, i
      ```sh
      sudo openvpn --config <nombre_del_archivo>.ovpn
      ```
-     Reemplaza `<nombre_del_archivo>` con el nombre del archivo de configuración de VPN que descargaste.
+   - Reemplaza `<nombre_del_archivo>` con el nombre del archivo de configuración de VPN que descargaste.
      En nuestro caso se llama "lab_Moroko.ovpn".
-     ![image](https://github.com/JESUSLUG/Gu-a-para-Iniciar-una-M-quina-en-HackTheBox-Configuraci-n-de-VPN-y-Acceso/assets/116361712/bd36b5c1-406d-434c-b7b6-da13bc662fd5)
+   - ![image](https://github.com/JESUSLUG/Gu-a-para-Iniciar-una-M-quina-en-HackTheBox-Configuraci-n-de-VPN-y-Acceso/assets/116361712/bd36b5c1-406d-434c-b7b6-da13bc662fd5)
 
 
 
