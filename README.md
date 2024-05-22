@@ -1,4 +1,4 @@
-# Guia-para-Iniciar-una-M-quina-en-HackTheBox-Configuraci-n-de-VPN-y-Acceso
+# Guia-para-Iniciar-una-Maquina-en-HackTheBox-Configuracion-de-VPN-y-Acceso
 
 Recuerda que tienes que inicar session en HTB Labs
 
